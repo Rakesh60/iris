@@ -41,5 +41,3 @@ def main():
 if __name__=='__main__':
     main()
 
-base="dark"
-primaryColor="purple"
